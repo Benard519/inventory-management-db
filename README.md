@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📦 Inventory Management Database (MySQL Project)
 
 Welcome to the **Inventory Management Database System** 🎉  
