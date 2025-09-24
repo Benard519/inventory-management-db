@@ -1,4 +1,3 @@
-Got it 👍 — let’s make your **README** stand out: professional but with a touch of fun so it’s not boring for graders. I’ll also guide you on naming the repo.
 
 ---
 
