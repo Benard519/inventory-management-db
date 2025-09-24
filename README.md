@@ -1,21 +1,4 @@
 
----
-
-# ✅ Repository Name Suggestion
-
-For Question 1 (**Inventory Management Database System**), keep the repo name short, clear, and professional. Some good options:
-
-* `inventory-management-db`
-* `inventory_system_sql`
-* `dbms-inventory-project`
-* `mysql-inventory-schema`
-
-👉 I’d recommend: **`inventory-management-db`** (clear, professional, easy to remember).
-
----
-
-# 🎉 Fun but Professional README
-
 ````markdown
 # 📦 Inventory Management Database (MySQL Project)
 
