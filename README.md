@@ -67,12 +67,3 @@ You should see the list of tables and some **sample data** ready to test.
 * ✅ **Real-world use case**: inventory + sales + purchases
 
 ---
-
-## 📌 Submission Details
-
-* **Assignment**: Database Management System (Question 1)
-* **Due Date**: Wednesday, 25th September 2025
-* **Deliverable**: One `.sql` file in this repository
-* **Student**: Benard Atika (University of Eldoret, Computer Science)
-
----
